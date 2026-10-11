@@ -6,9 +6,9 @@ library(patchwork)
 
 
 #files from google trends
-best_online_public_speaking_course <-  "C:\\Users\\Airoe\\Downloads\\time_series_Worldwide_20211007-2014_20261007-2014.csv"
-speak_with_confidence_course <- "C:\\Users\\Airoe\\Downloads\\tiшme_series_Worldwide_20211007-2014_20261007-2014.csv"
-communication_skills_training_online <- "C:\\Users\\Airoe\\Downloads\\time_series_Worldwide_20211007-2015_20261007-2015.csv"
+best_online_public_speaking_course <-  "data (.csv)/time_series_Worldwide_20211007-2014_20261007-2014.csv"
+speak_with_confidence_course <- "data (.csv)/tiшme_series_Worldwide_20211007-2014_20261007-2014.csv"
+communication_skills_training_online <- "data (.csv)/time_series_Worldwide_20211007-2015_20261007-2015.csv"
 
 
 #best_online_public_speaking_course analyze
